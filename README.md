@@ -9,7 +9,7 @@ Based on React Native and [ReactNativePJSIP](https://github.com/crazydev71/react
 1. **Clone the repo**
 
   ```
-  $ git clone https://github.com/datso/react-native-pjsip-app
+  $ git clone https://github.com/crazydev71/react-native-pjsip-app
   $ cd react-native-pjsip-app
   ```
 
